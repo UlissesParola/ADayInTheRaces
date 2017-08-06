@@ -1,0 +1,9 @@
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\bin\Debug\CorridaDeCachorros.exe.config
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\bin\Debug\CorridaDeCachorros.exe
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\bin\Debug\CorridaDeCachorros.pdb
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.csprojResolveAssemblyReference.cache
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.Form1.resources
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.Properties.Resources.resources
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.csproj.GenerateResource.Cache
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.exe
+G:\Dropbox\Computação\C#\Use a Cabeca\CorridaDeCachorros\CorridaDeCachorros\obj\Debug\CorridaDeCachorros.pdb
